@@ -1,3 +1,6 @@
 [submodule "network_design/action_semantics/ASN_ICLR20/code"]
 	path = network_design/action_semantics/ASN_ICLR20/code
 	url = https://github.com/MAS-anony/ASN
+[submodule "large_scale_learning/G2ANet-AAAI20/code"]
+	path = large_scale_learning/G2ANet-AAAI20/code
+	url = https://github.com/starry-sky6688/StarCraft
