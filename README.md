@@ -14,4 +14,5 @@ The official code releasement of publications in MARL field of TJU RL lab.
 | **curriculum_learning**     |                                                             | DyAN (AAAI-2020)                     |
 | **hybrid_action**           |                                                             | 浩天 & 嘉顺                          |
 | **self_imitation_learning** |                                                             | GASIL (AAMAS-2019)                   |
-
+| **sample efficiency**/**non-stationarity**       |      @岩哥                             | BPR+ (NIPS-2018), WDDQN, DPN-BPR+(AAMAS2020)|
+| **HMARL**                   |                    @汤哥                                    | HIL, HCOMM, HQMIX
