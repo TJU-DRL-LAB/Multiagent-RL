@@ -22,3 +22,6 @@
 [submodule "credit_assignment/QPD-ICML20/code"]
 	path = credit_assignment/QPD-ICML20/code
 	url = git@github.com:QPD-NeurIPS2019/QPD.git
+[submodule "curriculum_learning/DyMA-CL/DyAN_backbone"]
+	path = curriculum_learning/DyMA-CL/DyAN_backbone
+	url = https://github.com/wwxFromTju/DyAN_backbone
