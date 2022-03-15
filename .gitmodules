@@ -16,6 +16,18 @@
 [submodule "network_design/action_semantics/ASN_pymarl_version_c971afd"]
 	path = network_design/action_semantics/ASN_pymarl_version_c971afd
 	url = https://github.com/wwxFromTju/ASN_cloud
+[submodule "network_design/agent_permutation_invariant/API-ICML22/code"]
+	path = network_design/agent_permutation_invariant/API-ICML22/code
+	url = https://github.com/TJU-DRL-LAB/API-MARL.git
+[submodule "credit_assignment/QPD-ICML20/code"]
+	path = credit_assignment/QPD-ICML20/code
+	url = git@github.com:QPD-NeurIPS2019/QPD.git
 [submodule "curriculum_learning/DyMA-CL/DyAN_backbone"]
 	path = curriculum_learning/DyMA-CL/DyAN_backbone
 	url = https://github.com/wwxFromTju/DyAN_backbone
+[submodule "credit_assignment/Qatten/code"]
+	path = credit_assignment/Qatten/code
+	url = git@github.com:qattenaaai22/Qatten.git
+[submodule "self_imitation_learning/GASIL-AAMAS19/code"]
+	path = self_imitation_learning/GASIL-AAMAS19/code
+	url = git@github.com:tjuHaoXiaotian/GASIL.git
