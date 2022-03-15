@@ -13,3 +13,6 @@
 [submodule "network_design/action_semantics/ASN_backbone"]
 	path = network_design/action_semantics/ASN_backbone
 	url = https://github.com/wwxFromTju/ASN_backbone
+[submodule "network_design/action_semantics/ASN_pymarl_version_c971afd"]
+	path = network_design/action_semantics/ASN_pymarl_version_c971afd
+	url = https://github.com/wwxFromTju/ASN_cloud
