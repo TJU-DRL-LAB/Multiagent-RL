@@ -23,15 +23,15 @@ This repository will be constantly updated to include new researches made by TJU
 
 ## Directory Structure (an overall view of research works in this repo)
 
-| Category          | Sub-Categories                                   | Research Work (Conference) @Author | Paper Link | Progress |
-| :-------------------------- | :---------------------------------------------------------- | :----------------------------------- | ------------------------------------ | ------------------------------------ |
-| **network_design**          | (1) action semantics; <br />(2) agent permutation invariant (equivariant) | (1) ASN (ICLR-2020) @Weixun Wang<br />(2) API (underreview) @Xiaotian Hao | (1) https://openreview.net/forum?id=ryg48p4tPH<br />(2) https://arxiv.org/pdf/2203.05285.pdf | :white_check_mark: |
-| **credit_assignment**       |                                                             | (1) QPD (ICML-2020) @Yaodong Yang<br />(2) Qatten (Arxiv) @Yaodong Yang | (1) http://proceedings.mlr.press/v119/yang20d/yang20d.pdf<br />(2) https://arxiv.org/abs/2002.03939<br /> | :white_check_mark: |
-| **multiagent_exploration**  |                                                             | PMIC (NIPS-2021 workshop) @Pengyi Li | https://www.cooperativeai.com/neurips-2021/workshop-papers | :no_entry:           |
-| **large_scale_learning**    | (1) Game abstraction                                        | G2ANet (AAAI-2020) @Weixun Wang  | https://ojs.aaai.org/index.php/AAAI/article/view/6211 | :white_check_mark: |
-| **curriculum_learning**     |                                                             | DyAN (AAAI-2020) @Weixun Wang        | https://ojs.aaai.org/index.php/AAAI/article/view/6221 | :white_check_mark:  |
-| **hybrid_action**           |                                                             | MAPQN/MAHHQN (IJCAI-2019) @Haotian Fu | https://www.ijcai.org/proceedings/2019/0323.pdf | :no_entry:                |
-| **self_imitation_learning** |                                                             | GASIL (AAMAS-2019) @Xiaotian Hao       | https://www.ifaamas.org/Proceedings/aamas2019/pdfs/p1315.pdf | :white_check_mark: |
-| **non-stationarity**       |                              | (1) BPR+ (NIPS-2018) @Yan Zheng<br />(2) WDDQN  @Yan Zheng <br />(3) DPN-BPR+ (AAMAS2020) @Yan Zheng | (1) https://proceedings.neurips.cc/paper/2018/file/85422afb467e9456013a2a51d4dff702-Paper.pdf<br />(2) https://arxiv.org/abs/1802.08534<br /><br />(3) https://link.springer.com/article/10.1007/s10458-020-09480-9 | :no_entry: |
-| **hierarchical MARL**      |                                                        | HIL/HCOMM/HQMIX (Arxiv) @Hongyao Tang | https://arxiv.org/abs/1809.09332 | :no_entry: |
+| Category          | Sub-Categories                                   | Research Work (Conference) @Author | Progress |
+| :-------------------------- | :---------------------------------------------------------- | :----------------------------------- | ------------------------------------ |
+| **network_design**          | (1) action semantics; <br />(2) permutation invariant (equivariant) | (1) [ASN (ICLR-2020) @Weixun Wang](https://openreview.net/forum?id=ryg48p4tPH)<br />(2) [API (underreview) @Xiaotian Hao](https://arxiv.org/pdf/2203.05285.pdf) | :white_check_mark: |
+| **credit_assignment**       |                                                             | (1) [QPD (ICML-2020) @Yaodong Yang](http://proceedings.mlr.press/v119/yang20d/yang20d.pdf)<br />(2) [Qatten (Arxiv) @Yaodong Yang](https://arxiv.org/abs/2002.03939) | :white_check_mark: |
+| **multiagent_exploration**  |                                                             | [PMIC (NIPS-2021 workshop) @Pengyi Li](https://www.cooperativeai.com/neurips-2021/workshop-papers) | :no_entry:           |
+| **large_scale_learning**    | (1) Game abstraction                                        | [G2ANet (AAAI-2020) @Weixun Wang](https://ojs.aaai.org/index.php/AAAI/article/view/6211) | :white_check_mark: |
+| **curriculum_learning**     |                                                             | [DyAN (AAAI-2020) @Weixun Wang](https://ojs.aaai.org/index.php/AAAI/article/view/6221) | :white_check_mark:  |
+| **hybrid_action**           |                                                             | [MAPQN/MAHHQN (IJCAI-2019) @Haotian Fu](MAPQN/MAHHQN (IJCAI-2019) @Haotian Fu) | :no_entry:                |
+| **self_imitation_learning** |                                                             | [GASIL (AAMAS-2019) @Xiaotian Hao](https://www.ifaamas.org/Proceedings/aamas2019/pdfs/p1315.pdf) | :white_check_mark: |
+| **non-stationarity**       |                              | (1) [BPR+ (NIPS-2018) @Yan Zheng](https://proceedings.neurips.cc/paper/2018/file/85422afb467e9456013a2a51d4dff702-Paper.pdf)<br />(2) [WDDQN  @Yan Zheng](https://arxiv.org/abs/1802.08534) <br />(3) [DPN-BPR+ (AAMAS2020) @Yan Zheng](https://link.springer.com/article/10.1007/s10458-020-09480-9) | :no_entry: |
+| **hierarchical MARL**      |                                                        | [HIL/HCOMM/HQMIX (Arxiv) @Hongyao Tang](HIL/HCOMM/HQMIX (Arxiv) @Hongyao Tang) | :no_entry: |
 
