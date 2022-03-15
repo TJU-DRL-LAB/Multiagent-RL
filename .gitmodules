@@ -4,3 +4,9 @@
 [submodule "large_scale_learning/G2ANet-AAAI20/code"]
 	path = large_scale_learning/G2ANet-AAAI20/code
 	url = https://github.com/starry-sky6688/StarCraft
+[submodule "network_design/action_semantics/network_design/action_semantics/ASN_pymarl_version_c971afd"]
+	path = network_design/action_semantics/network_design/action_semantics/ASN_pymarl_version_c971afd
+	url = https://github.com/wwxFromTju/ASN_cloud
+[submodule "network_design/action_semantics/network_design/action_semantics/ASN_backbone"]
+	path = network_design/action_semantics/network_design/action_semantics/ASN_backbone
+	url = https://github.com/wwxFromTju/ASN_backbone
