@@ -1,4 +1,6 @@
-<img src="./assets/logo.png" alt="logo" style="zoom:120%;" />
+
+
+<p align="center"><img align="center" src="assets/logo.png" alt="logo" style="zoom:100%;" ></p>
 
 
 
