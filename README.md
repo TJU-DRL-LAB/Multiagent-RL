@@ -18,6 +18,7 @@ This repository will be constantly updated to include new researches made by TJU
 
 - **[API-QMIX](https://arxiv.org/pdf/2203.05285.pdf)**: the state-of-the-art MARL algorithms in the [StarCraft Multi-Agent Challenge (SMAC)](https://github.com/oxwhirl/smac) benchmark. 
   - [SMAC](https://github.com/oxwhirl/smac) is [WhiRL](http://whirl.cs.ox.ac.uk/)'s environment for research in the field of collaborative multi-agent reinforcement learning (MARL) based on [Blizzard](http://blizzard.com/)'s [StarCraft II](https://en.wikipedia.org/wiki/StarCraft_II:_Wings_of_Liberty) RTS game. SMAC makes use of Blizzard's [StarCraft II Machine Learning API](https://github.com/Blizzard/s2client-proto) and [DeepMind](https://deepmind.com/)'s [PySC2](https://github.com/deepmind/pysc2) to provide a convenient interface for autonomous agents to interact with StarCraft II, getting observations and performing actions. SMAC concentrates on *decentralised micromanagement* scenarios, where each unit of the game is controlled by an individual RL agent.<img src="./assets/smac.webp" alt="SMAC" style="zoom:70%;" />
+  - Performance of our API-QMIX in SMAC.<img src="./assets/SMAC-performance.png" />
 
 
 
