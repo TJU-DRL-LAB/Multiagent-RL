@@ -10,3 +10,6 @@
 [submodule "network_design/action_semantics/network_design/action_semantics/ASN_backbone"]
 	path = network_design/action_semantics/network_design/action_semantics/ASN_backbone
 	url = https://github.com/wwxFromTju/ASN_backbone
+[submodule "network_design/action_semantics/ASN_backbone"]
+	path = network_design/action_semantics/ASN_backbone
+	url = https://github.com/wwxFromTju/ASN_backbone
