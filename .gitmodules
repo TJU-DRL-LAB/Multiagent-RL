@@ -28,3 +28,6 @@
 [submodule "credit_assignment/Qatten/code"]
 	path = credit_assignment/Qatten/code
 	url = git@github.com:qattenaaai22/Qatten.git
+[submodule "self_imitation_learning/GASIL-AAMAS19/code"]
+	path = self_imitation_learning/GASIL-AAMAS19/code
+	url = git@github.com:tjuHaoXiaotian/GASIL.git
