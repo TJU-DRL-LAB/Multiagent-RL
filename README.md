@@ -4,7 +4,11 @@
 
 # Multiagent RLlib: A unified official code releasement of MARL researches made by TJU-RL-Lab
 
-This repository contains the released codes of representative research works of TJU-RL-Lab on the topic of Multiagent Reinforcement Learning (MARL). The research topics are classified according to the critical challenges of MARL, i.e., the curse of dimensionality (scalability) issue,  non-stationarity, multiagent credit assignment, exploration–exploitation tradeoff and hybrid action. This repository will be constantly updated to include new researches.  
+This repository contains the released codes of representative research works of TJU-RL-Lab on the topic of Multiagent Reinforcement Learning (MARL). The research topics are classified according to the critical challenges of MARL, e.g., the curse of dimensionality (scalability) issue,  non-stationarity, multiagent credit assignment, exploration–exploitation tradeoff and hybrid action. A big picture is shown bellow. 
+
+<p align="center"><img align="center" src="./assets/our-work.png" alt="our solutions"  /></p>
+
+This repository will be constantly updated to include new research works.  
 
 
 
