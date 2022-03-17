@@ -13,12 +13,6 @@
 [submodule "scalability/scalable_multiagent_network/action_semantics/ASN-ICLR20/code"]
 	path = scalability/scalable_multiagent_network/action_semantics/ASN-ICLR20/code
 	url = git@github.com:wwxFromTju/ASN_backbone.git
-[submodule "scalability/scalable_multiagent_network/action_semantics/ASN_backbone"]
-	path = scalability/scalable_multiagent_network/action_semantics/ASN_backbone
-	url = https://github.com/wwxFromTju/ASN_backbone
-[submodule "scalability/scalable_multiagent_network/action_semantics/ASN_pymarl_version_c971afd"]
-	path = scalability/scalable_multiagent_network/action_semantics/ASN_pymarl_version_c971afd
-	url = https://github.com/wwxFromTju/ASN_cloud
 [submodule "scalability/scalable_multiagent_network/dynamic_agent_number/DyAN-AAAI20/code"]
 	path = scalability/scalable_multiagent_network/dynamic_agent_number/DyAN-AAAI20/code
 	url = git@github.com:tjuHaoXiaotian/GASIL.git
