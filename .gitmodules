@@ -13,9 +13,6 @@
 [submodule "scalability/scalable_multiagent_network/action_semantics/ASN-ICLR20/code"]
 	path = scalability/scalable_multiagent_network/action_semantics/ASN-ICLR20/code
 	url = git@github.com:wwxFromTju/ASN_backbone.git
-[submodule "scalability/scalable_multiagent_network/dynamic_agent_number/DyAN-AAAI20/code"]
-	path = scalability/scalable_multiagent_network/dynamic_agent_number/DyAN-AAAI20/code
-	url = git@github.com:tjuHaoXiaotian/GASIL.git
 [submodule "scalability/scalable_multiagent_network/game_abstraction/G2ANet-AAAI20/code"]
 	path = scalability/scalable_multiagent_network/game_abstraction/G2ANet-AAAI20/code
 	url = git@github.com:starry-sky6688/StarCraft.git
