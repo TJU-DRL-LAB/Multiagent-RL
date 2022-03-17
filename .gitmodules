@@ -1,33 +1,21 @@
-[submodule "network_design/action_semantics/ASN_ICLR20/code"]
-	path = multiagent-oriented_network_design/action_semantics/ASN_ICLR20/code
-	url = https://github.com/MAS-anony/ASN
-[submodule "large_scale_learning/G2ANet-AAAI20/code"]
-	path = multiagent-oriented_network_design/G2ANet/code
-	url = https://github.com/starry-sky6688/StarCraft
-[submodule "network_design/action_semantics/network_design/action_semantics/ASN_pymarl_version_c971afd"]
-	path = network_design/action_semantics/network_design/action_semantics/ASN_pymarl_version_c971afd
-	url = https://github.com/wwxFromTju/ASN_cloud
-[submodule "network_design/action_semantics/network_design/action_semantics/ASN_backbone"]
-	path = network_design/action_semantics/network_design/action_semantics/ASN_backbone
-	url = https://github.com/wwxFromTju/ASN_backbone
-[submodule "network_design/action_semantics/ASN_backbone"]
-	path = multiagent-oriented_network_design/action_semantics/ASN_backbone
-	url = https://github.com/wwxFromTju/ASN_backbone
-[submodule "network_design/action_semantics/ASN_pymarl_version_c971afd"]
-	path = multiagent-oriented_network_design/action_semantics/ASN_pymarl_version_c971afd
-	url = https://github.com/wwxFromTju/ASN_cloud
-[submodule "network_design/agent_permutation_invariant/API-ICML22/code"]
-	path = multiagent-oriented_network_design/agent_permutation_invariant/API-ICML22/code
+[submodule "scalability/scalable_multiagent_network/agent_permutation_invariant/API/code"]
+	path = multiagent-oriented_network_design/agent_permutation_invariant/API/code
 	url = https://github.com/TJU-DRL-LAB/API-MARL.git
+[submodule "scalability/scalable_multiagent_network/action_semantics/ASN-ICLR20/code"]
+	path = scalability/scalable_multiagent_network/action_semantics/ASN-ICLR20/code
+	url = https://github.com/wwxFromTju/ASN_backbone
+[submodule "scalability/scalable_multiagent_network/G2ANet-AAAI20/code"]
+	path = scalability/scalable_multiagent_network/G2ANet-AAAI20/code
+	url = https://github.com/starry-sky6688/StarCraft
+[submodule "scalability/scalable_multiagent_network/DyAN-AAAI20/code"]
+	path = scalability/scalable_multiagent_network/DyAN-AAAI20/code
+	url = https://github.com/wwxFromTju/DyAN_backbone
 [submodule "credit_assignment/QPD-ICML20/code"]
 	path = credit_assignment/QPD-ICML20/code
 	url = git@github.com:QPD-NeurIPS2019/QPD.git
-[submodule "curriculum_learning/DyMA-CL/DyAN_backbone"]
-	path = multiagent-oriented_network_design/DyAN/DyAN_backbone
-	url = https://github.com/wwxFromTju/DyAN_backbone
 [submodule "credit_assignment/Qatten/code"]
 	path = credit_assignment/Qatten/code
 	url = git@github.com:qattenaaai22/Qatten.git
-[submodule "self_imitation_learning/GASIL-AAMAS19/code"]
-	path = self_imitation_learning/GASIL-AAMAS19/code
+[submodule "non_stationarity/self_imitation_learning/GASIL-AAMAS19/code"]
+	path = non_stationarity/self_imitation_learning/GASIL-AAMAS19/code
 	url = git@github.com:tjuHaoXiaotian/GASIL.git

@@ -4,7 +4,7 @@
 
 # Multiagent RLlib: A unified official code releasement of MARL researches made by TJU-RL-Lab
 
-This repository contains representative research works of TJU-RL-Lab on the topic of Multiagent Reinforcement Learning. The repository will be constantly updated to include new researches.  
+This repository contains the released codes of representative research works of TJU-RL-Lab on the topic of Multiagent Reinforcement Learning (MARL). The research topics are classified according to the critical challenges of MARL, i.e., the curse of dimensionality (scalability) issue,  non-stationarity, multiagent credit assignment, exploration–exploitation tradeoff and hybrid action. This repository will be constantly updated to include new researches.  
 
 
 
@@ -58,11 +58,11 @@ an overall view of research works in this repo
 
 | Category          | Sub-Categories                                   | Research Work (Conference), Author | Progress |
 | :-------------------------- | :---------------------------------------------------------- | :----------------------------------- | ------------------------------------ |
-| **scalability** | **scalable multiagent network**<br />    (1) permutation invariant (equivariant)   <br />    (2) action semantics<br />    (3) Game abstraction <br />    (4) dynamic agent-number network<br /><br />**hierarchical MARL**<br /> | (1) [API (underreview), Xiaotian Hao](https://arxiv.org/pdf/2203.05285.pdf) <br />(2) [ASN (ICLR-2020), Weixun Wang](https://openreview.net/forum?id=ryg48p4tPH)<br />(3) [G2ANet (AAAI-2020), Weixun Wang](https://ojs.aaai.org/index.php/AAAI/article/view/6211) <br />(4) [DyAN (AAAI-2020), Weixun Wang](https://ojs.aaai.org/index.php/AAAI/article/view/6221)<br />(5) [HIL/HCOMM/HQMIX (Arxiv), Hongyao Tang](HIL/HCOMM/HQMIX (Arxiv) @Hongyao Tang) | :white_check_mark: |
+| **scalability** | **scalable multiagent network**<br />    (1) permutation invariant (equivariant)   <br />    (2) action semantics<br />    (3) Game abstraction <br />    (4) dynamic agent-number network<br /><br />**hierarchical MARL**<br /> | (1) [API (underreview), Xiaotian Hao](https://arxiv.org/pdf/2203.05285.pdf) <br />(2) [ASN (ICLR-2020), Weixun Wang](https://openreview.net/forum?id=ryg48p4tPH)<br />(3) [G2ANet (AAAI-2020), Weixun Wang](https://ojs.aaai.org/index.php/AAAI/article/view/6211) <br />(4) [DyAN (AAAI-2020), Weixun Wang](https://ojs.aaai.org/index.php/AAAI/article/view/6221)<br />(5) [HIL/HCOMM/HQMIX (Arxiv), Hongyao Tang](https://arxiv.org/pdf/1809.09332.pdf?ref=https://githubhelp.com) | :white_check_mark: |
 | **credit_assignment**       |                                                             | (1) [QPD (ICML-2020), Yaodong Yang](http://proceedings.mlr.press/v119/yang20d/yang20d.pdf)<br />(2) [Qatten (Arxiv), Yaodong Yang](https://arxiv.org/abs/2002.03939) | :white_check_mark: |
 | **non-stationarity**       | (1) self_imitation_learning<br />(2) opponent modeling<br /> | (1) [GASIL (AAMAS-2019), Xiaotian Hao](https://www.ifaamas.org/Proceedings/aamas2019/pdfs/p1315.pdf)<br />(2) [BPR+ (NIPS-2018), Yan Zheng](https://proceedings.neurips.cc/paper/2018/file/85422afb467e9456013a2a51d4dff702-Paper.pdf)<br />(3) [DPN-BPR+ (AAMAS2020), Yan Zheng](https://link.springer.com/article/10.1007/s10458-020-09480-9) <br />(4) [WDDQN, Yan Zheng](https://arxiv.org/abs/1802.08534) <br /> | :white_check_mark:<br />:no_entry:<br />:no_entry:<br />:no_entry: |
 | **multiagent_exploration**  |                                                             | [PMIC (NIPS-2021 workshop), Pengyi Li](https://www.cooperativeai.com/neurips-2021/workshop-papers) | :no_entry:           |
-| **hybrid_action**           |                                                             | [MAPQN/MAHHQN (IJCAI-2019), Haotian Fu](MAPQN/MAHHQN (IJCAI-2019) @Haotian Fu) | :no_entry:                |
+| **hybrid_action**           |                                                             | [MAPQN/MAHHQN (IJCAI-2019), Haotian Fu](https://arxiv.org/pdf/1903.04959.pdf?ref=https://githubhelp.com) | :no_entry:                |
 | **negotiations**      |                                                        | Xiaoyan Gao, yuelin Wu | :no_entry: |
 
 
