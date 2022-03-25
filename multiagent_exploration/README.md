@@ -1,2 +1,2 @@
-# MARL
-The official code releasement of publications in MARL field of TJU RL lab.
+# Exploration–exploitation tradeoff
+Compared with the single-agent settings, the presence of multiple agents further makes the problem more complicated. First, due to the curse of dimensionality, the search space grows larger. Second, the agents explore to obtain information not only about the environment, but also about the other agents. Too much exploration, however, can disturb the learning dynamics of the other agents, thus making the learning task more difficult, especially for the cases that the agents’ choices of actions must be mutually consistent in order to achieve better rewards. Thus, coordinated exploration is needed.
