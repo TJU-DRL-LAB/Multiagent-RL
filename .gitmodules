@@ -25,3 +25,6 @@
 [submodule "scalability/scalable_multiagent_network/dynamic_agent_number/DyAN_backbone"]
 	path = scalability/scalable_multiagent_network/dynamic_agent_number/DyAN_backbone
 	url = https://github.com/wwxFromTju/DyAN_backbone
+[submodule "Multiagent-RL/multiagent_exploration/PMIC"]
+	path = Multiagent-RL/multiagent_exploration/PMIC
+	url = https://github.com/yeshenpy/PMIC.git
