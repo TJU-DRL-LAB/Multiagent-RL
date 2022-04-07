@@ -28,3 +28,6 @@
 [submodule "non_stationarity/opponent_modeling/deep-bpr"]
 	path = non_stationarity/opponent_modeling/deep-bpr
 	url = https://github.com/TJU-DRL-LAB/deep-BPR-plus.git
+[submodule "multiagent_exploration/PMIC/code"]
+	path = multiagent_exploration/PMIC/code
+	url = https://github.com/yeshenpy/PMIC.git
