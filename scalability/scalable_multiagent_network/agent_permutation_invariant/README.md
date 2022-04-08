@@ -10,7 +10,7 @@ Open-source code for [API: Boosting Multi-Agent Reinforcement Learning via Agent
 
 
 
-![](http://latex.codecogs.com/svg.latex?f:X\ \\rightarrow\ Y)
+![](http://latex.codecogs.com/svg.latex?f:X\\rightarrow\ Y)
 
 
 
