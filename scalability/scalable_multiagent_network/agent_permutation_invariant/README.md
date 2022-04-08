@@ -10,12 +10,8 @@ Open-source code for [API: Boosting Multi-Agent Reinforcement Learning via Agent
 
 
 
-![1](http://latex.codecogs.com/svg.latex?f:X\\rightarrow\\text{Y})
-![2](http://latex.codecogs.com/svg.latex?\begin{cases}a_1=a_{2}\\\\b_{1}=b_{2}\\\\\end{cases})
 
-
-
-**Permutation Invariant Function.** A function ![](http://latex.codecogs.com/svg.latex?f:X \rightarrow Y) where ![](http://latex.codecogs.com/svg.latex?X=\left[x_1, x_2,\ldots x_m\right]^\mathsf{T}) of size ![](http://latex.codecogs.com/svg.latex?\(m, k\)) is a set consisting of ![](http://latex.codecogs.com/svg.latex?m) components (each of which is of dimension ![](http://latex.codecogs.com/svg.latex?k)), is said to be permutation invariant if permutation of input components does not change the output of the function. Mathematically, ![](http://latex.codecogs.com/svg.latex?f(\left[x_1, x_2,\ldots x_m\right]^\mathsf{T})=f(M\left[x_1, x_2,\ldots x_m\right]^\mathsf{T})), where ![](http://latex.codecogs.com/svg.latex?M) is the permutation matrix of size ![](http://latex.codecogs.com/svg.latex?(m, m)), which is a binary matrix that has exactly a single unit value in every row and column and zeros everywhere else.
+**Permutation Invariant Function.** A function ![](http://latex.codecogs.com/svg.latex?f:X\\rightarrow\\text{Y}) where ![](http://latex.codecogs.com/svg.latex?X=\left[x_1,x_2,\ldotsx_m\right]^\mathsf{T}) of size ![](http://latex.codecogs.com/svg.latex?\(m,k\)) is a set consisting of ![](http://latex.codecogs.com/svg.latex?m) components (each of which is of dimension ![](http://latex.codecogs.com/svg.latex?k)), is said to be permutation invariant if permutation of input components does not change the output of the function. Mathematically, ![](http://latex.codecogs.com/svg.latex?f(\left[x_1,x_2,\ldotsx_m\right]^\mathsf{T})=f(M\left[x_1,x_2,\ldotsx_m\right]^\mathsf{T})), where ![](http://latex.codecogs.com/svg.latex?M) is the permutation matrix of size ![](http://latex.codecogs.com/svg.latex?(m, m)), which is a binary matrix that has exactly a single unit value in every row and column and zeros everywhere else.
 
 **Permutation Equivariant Function.** Similarly, a function ![](http://latex.codecogs.com/svg.latex?f: X\rightarrow Y) is permutation equivariant if permutation of input components permutes the output components with the same permutation ![](http://latex.codecogs.com/svg.latex?M). Mathematically, ![](http://latex.codecogs.com/svg.latex?f(M\left[x_1, x_2,\ldots x_m\right]^\mathsf{T})=M\left[y_1, y_2,\ldots y_m\right]^\mathsf{T}).
 
