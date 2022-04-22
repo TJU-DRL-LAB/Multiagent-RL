@@ -35,13 +35,15 @@ We give an example for add the Combat-v0 task of [ma-gym](https://github.com/kou
 
 
 
-### 2. add a new algorithm
+### 2. How to add a new algorithm?
 
-
-
-
-
-
+- If you only want to modify the neural network architecture (e.g., the individual policy network or the individual Q-network) for each agent:
+  - **Step-1:** implement your agent neural network architecture and put the code into `src/modules/agents` folder. ![image-20220422100903122](../../assets/how_to_use/add_algorithm_code)
+  - **Step-2:** registering your new agent in `src/modules/agents/__init__.py` .
+    - ![image-20220422101505572](../../assets/how_to_use/add_algorithm_register.png)
+  - **Step-3:** add your new algorithm configuration to the `src/config/algs ` folder.
+    - ![image-20220422101958788](../../assets/how_to_use/add_algorithm_configure.png)
+    - Notice that **the most important key word** is the `agent`, which indicates which agent (neural network architecture) will be loaded.![image-20220422102324784](../../assets/how_to_use/add_algorithm_configure_imp.png)
 
 
 
