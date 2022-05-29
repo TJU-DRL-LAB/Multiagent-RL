@@ -7,9 +7,6 @@
 [submodule "non_stationarity/self_imitation_learning/GASIL-AAMAS19/code"]
 	path = non_stationarity/self_imitation_learning/GASIL-AAMAS19/code
 	url = git@github.com:tjuHaoXiaotian/GASIL.git
-[submodule "scalability/scalable_multiagent_network/agent_permutation_invariant/API/code"]
-	path = scalability/scalable_multiagent_network/agent_permutation_invariant/API/code
-	url = git@github.com:TJU-DRL-LAB/API-MARL.git
 [submodule "scalability/scalable_multiagent_network/action_semantics/ASN-ICLR20/code"]
 	path = scalability/scalable_multiagent_network/action_semantics/ASN-ICLR20/code
 	url = git@github.com:wwxFromTju/ASN_backbone.git
