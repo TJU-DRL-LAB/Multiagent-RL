@@ -28,3 +28,6 @@
 [submodule "multiagent_exploration/PMIC/code"]
 	path = multiagent_exploration/PMIC/code
 	url = https://github.com/yeshenpy/PMIC.git
+[submodule "scalability/scalable_multiagent_network/agent_permutation_invariant/code"]
+	path = scalability/scalable_multiagent_network/agent_permutation_invariant/code
+	url = git@github.com:tjuHaoXiaotian/API-Network.git
