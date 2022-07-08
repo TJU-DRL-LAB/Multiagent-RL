@@ -9,8 +9,8 @@ an overall view of research works in this repo
 
 | Env Type          | Envs                                   | Algorithm | Progress |
 | :-------------------------- | :---------------------------------------------------------- | :----------------------------------- | ------------------------------------ |
-| **discrete action space** | **SMAC** | (1) Independent DQN, Independent PPO <br />  (2) VDN, QMIX, QPLEX <br /> (3) Qatten, ASN, G2ANet, DyAN, Hyper-Policy-Network(HPN) <br />  | :white_check_mark: |
-| **continuous action space** |  **MPE,<br /> Multiagent MuJoCo**  | (1) Independent DDPG <br />  (2) MADDPG, COMIX <br />  (3) PMIC | :white_check_mark: |
+| **discrete action space** | **SMAC** | (1) Independent DQN, Independent PPO <br />  (2) VDN, QMIX, QPLEX, MAPPO <br /> (3) Qatten, ASN, G2ANet, DyAN, Hyper-Policy-Network(HPN) <br />  | :white_check_mark: |
+| **continuous action space** |  **MPE,<br /> Multiagent MuJoCo**  | (1) Independent DDPG, Independent PPO <br />  (2) MADDPG, MAPPO, COMIX <br />  (3) PMIC | :white_check_mark: |
 
 
 This codebase is built on top of the [PyMARL](https://github.com/oxwhirl/pymarl) framework for multi-agent reinforcement learning algorithms.
