@@ -5,7 +5,7 @@ This repo contains the typical multiagent environments and algorithms.
   * It includes three typical environments： SMAC, MPE and Multiagent MuJoCo.
   * It includes implementations for Independent DQN, VDN, QMIX, Hyper-Policy-Network(HPN), MADDPG, COMIX and Independent DDPG.
 
-an overall view of research works in this repo
+an overall view of algorithms supported by this repo:
 
 | Env Type          | Envs                                   | Algorithm | Progress |
 | :-------------------------- | :---------------------------------------------------------- | :----------------------------------- | ------------------------------------ |
