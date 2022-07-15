@@ -1,0 +1,40 @@
+# --- CENTRALV specific parameters ---
+# Independent PPO with value norm, layer_norm, orthogonal, value clip
+# but, without death agent mask, data chunk
+
+action_selector: "multinomial"
+epsilon_start: .0
+epsilon_finish: .0
+epsilon_anneal_time: 100000
+mask_before_softmax: True
+
+runner: "parallel"
+
+buffer_size: 64
+batch_size_run: 8
+batch_size: 64
+accumulated_episodes: 8
+
+mac: 'basic_mac'
+agent: 'n_rnn'
+t_max: 10050000
+
+obs_agent_id: True
+
+lr: 0.0005
+critic_coef: 0.5
+entropy: 0.01
+gae_lambda: 0.95
+mini_epochs: 8
+eps_clip: 0.2
+save_probs: True
+
+agent_output_type: "pi_logits"
+learner: "ppo_learner"
+
+use_layer_norm: True
+use_orthogonal: True
+gain: 0.01
+use_value_norm: True
+
+name: "ippo_env=8_adam_gae"
