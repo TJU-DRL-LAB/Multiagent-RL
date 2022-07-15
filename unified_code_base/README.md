@@ -1,5 +1,8 @@
 # A Unified MARL Codebase Incorporating SMAC, MPE and Multiagent MuJoCo Environments and Typical MARL Algorithms.
+```text
+20220715:  update ippo, iql, qatten, qtran, updet (TODO: generate a specific configuration file for each algorithm for each env。)
 
+```
 ## 1. Introduction
 This repo contains the typical multiagent environments and algorithms.
   * It includes three typical environments： SMAC, MPE and Multiagent MuJoCo.
@@ -11,6 +14,7 @@ An overall view of algorithms supported by this repo:
 | :-------------------------- | :---------------------------------------------------------- | :----------------------------------- | ------------------------------------ |
 | **discrete action space** | **SMAC** | (1) Independent DQN, Independent PPO <br />  (2) VDN, QMIX, QPLEX, MAPPO <br /> (3) Qatten, ASN, G2ANet, DyAN, Hyper-Policy-Network(HPN) <br />  | :white_check_mark: |
 | **continuous action space** |  **MPE,<br /> Multiagent MuJoCo**  | (1) Independent DDPG, Independent PPO <br />  (2) MADDPG, MAPPO, COMIX <br />  (3) PMIC | :white_check_mark: |
+
 
 
 This codebase is built on top of the [PyMARL](https://github.com/oxwhirl/pymarl) framework for multi-agent reinforcement learning algorithms.
